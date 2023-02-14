@@ -31,7 +31,7 @@ import static net.serenitybdd.screenplay.actors.OnStage.theActorCalled;
 import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
 import static org.hamcrest.Matchers.equalTo;
 
-public class LogInStepDefinitions {
+public class HappyPathStepDefinitions {
 
 
     @Managed(driver = "Appium")
